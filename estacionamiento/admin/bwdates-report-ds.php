@@ -79,7 +79,7 @@ if (strlen($_SESSION['vpmsaid']==0)) {
                     <div class="col-lg-12">
                         <div class="card">
                             <div class="card-header">
-                                <strong>Between Dates </strong> Reports
+                                <strong>Date</strong> Reportes
                             </div>
                             <div class="card-body card-block">
                                 <form action="bwdates-reports-details.php" method="post" enctype="multipart/form-data" class="form-horizontal" name="bwdatesreport">
@@ -88,11 +88,11 @@ if (strlen($_SESSION['vpmsaid']==0)) {
   }  ?> </p>
                                   
                                     <div class="row form-group">
-                                        <div class="col col-md-3"><label for="text-input" class=" form-control-label">From Date</label></div>
+                                        <div class="col col-md-3"><label for="text-input" class=" form-control-label">Desde</label></div>
                                         <div class="col-12 col-md-9"><input type="date" name="fromdate" id="fromdate" class="form-control" required="true"></div>
                                     </div>
                                     <div class="row form-group">
-                                        <div class="col col-md-3"><label for="email-input" class=" form-control-label">To Date</label></div>
+                                        <div class="col col-md-3"><label for="email-input" class=" form-control-label">Hasta</label></div>
                                         <div class="col-12 col-md-9"><input type="date" name="todate"  class="form-control" required="true"></div>
                                     </div>
                                    
