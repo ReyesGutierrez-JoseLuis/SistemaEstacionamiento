@@ -20,7 +20,7 @@ echo "<script>window.location.href='manage-category.php'</script>";
 <html class="no-js" lang="">
 <head>
    
-    <title>VPMS - Manage Category</title>
+    <title>Categorías </title>
    
 
 
