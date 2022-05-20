@@ -96,10 +96,7 @@ if (strlen($_SESSION['vpmsaid']==0)) {
                                         <div class="col-12 col-md-9"><input type="date" name="todate"  class="form-control" required="true"></div>
                                     </div>
                                    
-                                   
-                                  
-                                    
-                                    
+
                                    <p style="text-align: center;"> <button type="submit" class="btn btn-primary btn-sm" name="submit" >Enviar</button></p>
                                 </form>
                             </div>
