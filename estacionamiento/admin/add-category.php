@@ -103,7 +103,7 @@ echo "<script>window.location.href='manage-category.php'</script>";
                                     
                                     <div class="row form-group">
                                         <div class="col col-md-3"><label for="text-input" class=" form-control-label">Categoría</label></div>
-                                        <div class="col-12 col-md-9"><input type="text" id="catename" name="catename" class="form-control" placeholder="Vehicle Category" required="true"></div>
+                                        <div class="col-12 col-md-9"><input type="text" id="catename" name="catename" class="form-control" placeholder="Categoría de vehículo" required="true"></div>
                                     </div>
                                  
                                     
