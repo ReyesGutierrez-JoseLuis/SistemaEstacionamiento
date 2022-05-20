@@ -52,8 +52,7 @@ if (strlen($_SESSION['vpmsaid']==0)) {
                             <div class="page-title">
                                 <ol class="breadcrumb text-right">
                                     <li><a href="dashboard.php">Dashboard</a></li>
-                                    <li><a href="bwdates-report-ds.php">Reports</a></li>
-                                    <li class="active">Between Dates Reports</li>
+                                    <li><a href="bwdates-report-ds.php">Reportes</li>
                                 </ol>
                             </div>
                         </div>
