@@ -20,7 +20,7 @@ echo "<script>window.location.href='manage-outgoingvehicle.php'</script>";
 <html class="no-js" lang="">
 <head>
    
-    <title>VPMS - Manage Incoming Vehicley</title>
+    <title>Manage Incoming Vehicley</title>
    
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.0/normalize.min.css">

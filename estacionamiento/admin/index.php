@@ -23,7 +23,7 @@ if(isset($_POST['login']))
  <html class="no-js" lang="">
 <head>
     
-    <title>VPMS-Login Page</title>
+    <title>Estacionamiento</title>
    
 
     <link rel="apple-touch-icon" href="https://i.imgur.com/QRAUqs9.png">
