@@ -100,9 +100,7 @@ if (strlen($_SESSION['vpmsaid']==0)) {
                                   
                                     
                                     
-                                   <p style="text-align: center;"> <button type="submit" class="btn btn-primary btn-sm" name="submit" >
-}rnbiar<<<<
-                                   </button></p>
+                                   <p style="text-align: center;"> <button type="submit" class="btn btn-primary btn-sm" name="submit" >Enviar</button></p>
                                 </form>
                             </div>
                             
